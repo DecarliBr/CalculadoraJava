@@ -75,7 +75,9 @@ public static int soma(int a, int b){
                         b=sc.nextInt();
                         c=divisao(a,b);
                         System.out.println("total= " + c);  
-                     }else{}
+                     }else{
+                    
+                    }
         
     }
     
