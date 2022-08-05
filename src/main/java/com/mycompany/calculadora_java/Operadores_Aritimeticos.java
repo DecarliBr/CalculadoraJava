@@ -7,7 +7,7 @@ public class Operadores_Aritimeticos {
     public float num1;
     public float num2;
    
-        // Função para somar valores
+        // Função para somar
         public float soma(){
            float resultado = this.num1 + this.num2;
            return resultado;
